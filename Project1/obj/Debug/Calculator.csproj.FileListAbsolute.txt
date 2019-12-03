@@ -1,0 +1,15 @@
+C:\Users\YH.Ong\Desktop\Project\Project1\Project1\bin\Debug\Calculator.exe.config
+C:\Users\YH.Ong\Desktop\Project\Project1\Project1\bin\Debug\Calculator.exe
+C:\Users\YH.Ong\Desktop\Project\Project1\Project1\bin\Debug\Calculator.pdb
+C:\Users\YH.Ong\Desktop\Project\Project1\Project1\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\YH.Ong\Desktop\Project\Project1\Project1\obj\Debug\MainWindow.g.cs
+C:\Users\YH.Ong\Desktop\Project\Project1\Project1\obj\Debug\App.g.cs
+C:\Users\YH.Ong\Desktop\Project\Project1\Project1\obj\Debug\Calculator_MarkupCompile.cache
+C:\Users\YH.Ong\Desktop\Project\Project1\Project1\obj\Debug\Calculator_MarkupCompile.lref
+C:\Users\YH.Ong\Desktop\Project\Project1\Project1\obj\Debug\MainWindow.baml
+C:\Users\YH.Ong\Desktop\Project\Project1\Project1\obj\Debug\Calculator.g.resources
+C:\Users\YH.Ong\Desktop\Project\Project1\Project1\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\YH.Ong\Desktop\Project\Project1\Project1\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\YH.Ong\Desktop\Project\Project1\Project1\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\YH.Ong\Desktop\Project\Project1\Project1\obj\Debug\Calculator.exe
+C:\Users\YH.Ong\Desktop\Project\Project1\Project1\obj\Debug\Calculator.pdb

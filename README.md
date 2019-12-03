@@ -1,2 +1,2 @@
 # Basic-Calculator
-Basic Calculator using with Window Form Application in C#
+Basic Calculator builded using Window Form Application in C#
